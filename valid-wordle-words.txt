@@ -61,6 +61,7 @@ focus
 force
 frame
 frank
+fried
 front
 fruit
 glass
@@ -248,6 +249,7 @@ cross
 dance
 doubt
 drink
+dried
 drive
 enjoy
 enter
@@ -482,6 +484,7 @@ great
 haply
 heavy
 hella
+hello
 hence
 hotly
 icily
